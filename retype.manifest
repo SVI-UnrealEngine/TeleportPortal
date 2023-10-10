@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-10T09:15:30Z",
+  "created": "2023-10-10T10:16:31Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -13,7 +13,8 @@
       "old": true
     },
     {
-      "path": "component-customization/index.html"
+      "path": "component-customization/index.html",
+      "old": true
     },
     {
       "path": "components/index.html",
@@ -31,48 +32,69 @@
       "path": "index.html"
     },
     {
-      "path": "layout-component/index.html"
+      "path": "layout-component/index.html",
+      "old": true
     },
     {
-      "path": "layout-component/tablayout/index.html"
+      "path": "layout-component/tablayout/index.html",
+      "old": true
     },
     {
-      "path": "menu-component/combobox/index.html"
+      "path": "level-streaming/addlevel/index.html"
     },
     {
-      "path": "menu-component/index.html"
+      "path": "level-streaming/index.html"
     },
     {
-      "path": "menu-component/input/index.html"
+      "path": "level-streaming/setupportals/index.html"
     },
     {
-      "path": "menu-component/modal/index.html"
+      "path": "menu-component/combobox/index.html",
+      "old": true
     },
     {
-      "path": "menu-component/selector/index.html"
+      "path": "menu-component/index.html",
+      "old": true
     },
     {
-      "path": "menu-component/slider/index.html"
+      "path": "menu-component/input/index.html",
+      "old": true
     },
     {
-      "path": "menu-component/toggle/index.html"
+      "path": "menu-component/modal/index.html",
+      "old": true
     },
     {
-      "path": "quick-start/addplugin/index.html"
+      "path": "menu-component/selector/index.html",
+      "old": true
+    },
+    {
+      "path": "menu-component/slider/index.html",
+      "old": true
+    },
+    {
+      "path": "menu-component/toggle/index.html",
+      "old": true
+    },
+    {
+      "path": "quick-start/addplugin/index.html",
+      "old": true
     },
     {
       "path": "quick-start/get-turtle/index.html",
       "old": true
     },
     {
-      "path": "quick-start/index.html"
+      "path": "quick-start/index.html",
+      "old": true
     },
     {
       "path": "quick-start/quick-start/index.html",
       "old": true
     },
     {
-      "path": "quick-start/usage/index.html"
+      "path": "quick-start/usage/index.html",
+      "old": true
     },
     {
       "path": "racing/events/index.html",
@@ -318,6 +340,12 @@
     },
     {
       "path": "static/world-cup.png"
+    },
+    {
+      "path": "teleport/index.html"
+    },
+    {
+      "path": "teleport/settingportals/index.html"
     },
     {
       "path": "training/index.html",

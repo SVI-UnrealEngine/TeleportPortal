@@ -1,5 +1,5 @@
 ---
-label: Layout Component
+label: Teleport
 order: 75
 icon: "/static/layout1.png"
 ---
@@ -17,12 +17,14 @@ icon: "/static/layout1.png"
 </style>
 
 
-Fully customizable layouts preset with in/out animations
-
 :::sample
-Main Folder :  `Content/Modular Menu/Widgets/LayoutComponents`
+ Go to :  `Content/Teleport/Blueprint/BP_Teleporter`
 :::
 
 
-[!ref icon="/static/tabpanel.png"](tablayout.md)
+# What is Teleporter ?
+
+They are teleportation portals within the same level with certain entry and exit points.
+
+[!ref icon="/static/custom.png"](settingportals.md)
 
