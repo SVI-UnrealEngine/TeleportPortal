@@ -52,7 +52,7 @@ jobs:
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Modular Menu # Your custom website title; keep it short.
+  title: Teleport Portal System # Your custom website title; keep it short.
   #logo: static/logo.png          # Path to a logo file.
   #logoDark: static/logo.png # Path to a logo file to use in dark mode.
   #logoAlign: left               # Align the logo to the right or the left.
