@@ -18,7 +18,7 @@ icon: "/static/play.png"
 
 
 :::sample
-Go to :  `Content/PortalTeleport/Blueprints/Portals/BP_SameLevelPortal`
+Go to :  `Content/PortalTeleport/Blueprints/Portals/BP_SameLevelPortalTunnel`
 :::
 
 # Add
