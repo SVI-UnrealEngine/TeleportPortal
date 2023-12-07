@@ -17,20 +17,22 @@ icon: "/static/custom.png"
 </style>
 
 
+# Settings Portal
 
-
-# Settings
+:::sample
+Go to :  `Content/PortalTeleport/Blueprints/Portals/BP_TeleportPortal`
+:::
 
 1. `Add the teleporter to one of your sublevels`
 
 :::sample
-Go to :  `Content/Teleport/Blueprint/BP_TeleportPoint`
+Go to :  `Content/PortalTeleport/Blueprints/Portals/BP_TeleportPortalPoint`
 :::
 
 2. `Add teleport point to desired location`
 
 
-3. `In details panel find Target Location add set it `
+3. `In details panel of BP_TeleportPortal find Target Location add set it `
 
 
 4. (optional) `In details panel find Use With Input `

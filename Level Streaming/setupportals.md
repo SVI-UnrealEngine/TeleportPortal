@@ -16,17 +16,30 @@ icon: "/static/play.png"
     }
 </style>
 
+
 :::sample
-Go to :  `Content/Teleport/Blueprint/BP_LevelStreamer`
+Go to :  `Content/PortalTeleport/Blueprints/Portals/BP_LevelStreamerManager`
 :::
 
+# What is Level Streamer Manager?
 
-# What is Level Streamer?
-
-The level it connects to and the portal/level it will go to
-When used to hold references, it frees up the level it is connected to from the level publisher, freeing up space for RAM and rendering, and provides a smooth transition by loading the targeted portal/level from the front.
+The manager who is permanently located on the Base Level and controls the level transition portals and connects with the user interface.
 
 
-`Connected Level` -> It is the level it is in and will close when used.
+`Starting Level` -> Load target level when game starting.
 
-`Connected Level Streamer` -> Specifies the level and portal to go to.
+`Fade Speed` -> Level transition speed.
+
+
+:::sample
+Go to :  `Content/PortalTeleport/Blueprints/Portals/BP_LevelStreamerPortal`
+:::
+
+# What is Level Streamer Portal?
+
+The portal who is load streaming level and located on the Base Level.
+
+
+`Connected Level` -> Loading level.
+
+`Connected Level Streamer` -> Target the level and portal.

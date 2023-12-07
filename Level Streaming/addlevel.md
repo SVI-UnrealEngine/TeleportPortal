@@ -1,8 +1,9 @@
 ---
-label: Add Sub Levels
+label: Add Levels
 order: 100
 icon: "/static/add.png"
 ---
+
 
 <style>
     .sample {
@@ -16,10 +17,10 @@ icon: "/static/add.png"
     }
 </style>
 
-:::sample
-Go to :  `Content/Teleport/BaseStreamingLevel`
-:::
 
+:::sample
+Go to :  `Content/PortalTeleport/Blueprints/Maps/BaseStreamingLevel`
+:::
 
 # What is Base Streaming Level?
 
@@ -27,21 +28,22 @@ This level is a basic empty level where you can place the main systems and even 
 You can make fast and efficient transitions between levels by adding sub-levels within this level.
 
 
-
 :::sample
 Go to :  `Window/Levels`
 :::
 
-# Add
+# Add Sub Levels
 
-In the window that opens, add the levels you want by dragging them under your main level.
+::  
+
+     Create a basic level
+     Design and save created level
+     Open BaseStreamingLevel
+     Open Windows/Levels window in the editor 
+     Drag your level under Persisten Level
+
+::
 
 
-:::sample
-Go to :  `Content/Teleport/Blueprints/BP_LevelStreamerManager`
-:::
 
-# What is Level Streamer Manager?
-
-The manager who is permanently located on the main level and controls the level transition portals and connects with the user interface.
 

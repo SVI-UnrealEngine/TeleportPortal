@@ -1,5 +1,5 @@
 ---
-label: Level Streaming
+label: Level Streaming Portal
 order: 90
 icon: "/static/puzzle.png"
 ---

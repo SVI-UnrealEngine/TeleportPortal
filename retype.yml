@@ -52,7 +52,7 @@ jobs:
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Teleport Portal System # Your custom website title; keep it short.
+  title: Teleport Portal # Your custom website title; keep it short.
   #logo: static/logo.png          # Path to a logo file.
   #logoDark: static/logo.png # Path to a logo file to use in dark mode.
   #logoAlign: left               # Align the logo to the right or the left.
@@ -74,6 +74,11 @@ links: # A list of custom links to add to the top bar of the generated website.
     link: /   # Link to an internal file or external URL.
     icon: package      # A custom icon name, :emoji:, <svg>, or path to a file.
     iconAlign: left # Icon alignment, to the left or right. Default is left..
+  - text: Unreal Engine 5.3.0
+    link: /   # Link to an internal file or external URL.
+    icon: package      # A custom icon name, :emoji:, <svg>, or path to a file.
+    iconAlign: left # Icon alignment, to the left or right. Default is left..
+
 
 # -----------------------------------------------------------------------------
 

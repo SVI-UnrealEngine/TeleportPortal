@@ -1,7 +1,7 @@
 ---
 label: Teleport
-order: 75
-icon: "/static/layout1.png"
+order: 85
+icon: "/static/finish.png"
 ---
 
 <style>
@@ -18,11 +18,11 @@ icon: "/static/layout1.png"
 
 
 :::sample
- Go to :  `Content/Teleport/Blueprint/BP_Teleporter`
+ Go to :  `Content/PortalTeleport/Blueprints/Portals/BP_TeleportPortal`
 :::
 
 
-# What is Teleporter ?
+# What is Teleport Portal ?
 
 They are teleportation portals within the same level with certain entry and exit points.
 
